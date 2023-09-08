@@ -1,16 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/notes-christ-s-chronicles/","dgPassFrontmatter":true,"created":"","updated":""}
+{"dg-publish":true,"publish":true,"permalink":"/notes-christ-s-chronicles/","dgPassFrontmatter":true,"created":"","updated":""}
 ---
 
-
----
-title: Notes-Christ’s Chronicles 📝
-aliases: []
-type: index note
-cssClasses: 
-publish: true
-dg-publish: false
----
 
 🔺 [[Notes Hub 📝\|Notes Hub 📝]]
 
@@ -18,7 +9,7 @@ dg-publish: false
 ---
 * *Notes originally published on [Christ’s Chronicles – Reviewing the Records of the Word of God](https://christschronicles.com/)
 
-
+/pub
 ## 🧭 Below you can quickly navigate my notes by topics, categories, or tags 
 
 | Topics                                                 | Categories                   | Tags               |
